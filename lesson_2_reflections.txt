@@ -7,17 +7,26 @@ What value do you think it offers?
 
 Staging area is something between working directory and repository.
 
-
 How can you use the staging area to make sure you have one commit per logical
 change?
+
+You can compare with the comment you have written.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+When you want to have different versions. Yes, it helps.
+
 How do the diagrams help you visualize the branch structure?
+
+You will have an idea about on which branch you are working
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+Making changes work all together
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+No idea
